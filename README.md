@@ -15,7 +15,9 @@ This an ad inside expensive, professional (?) software that I've already paid fo
 
 ## Skip The Dishes
 
+![Notification](1CE00569-E0BE-47BB-99CB-9BA3FB4E75F3.JPG)
 
+![Settings](EA783755-590D-4F10-88FA-7FCB75520B28.JPG)
 
 ## Ritual
 
