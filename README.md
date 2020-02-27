@@ -13,6 +13,8 @@ This an ad inside expensive, professional (?) software that I've already paid fo
 
 ![Parallels on macOS](parallels.png)
 
+![Parallels pop-up](parallels-popup.png)
+
 ## Skip The Dishes
 
 ![Notification](1CE00569-E0BE-47BB-99CB-9BA3FB4E75F3.JPG)
